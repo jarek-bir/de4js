@@ -13,4 +13,6 @@
   },
   "docker.commands.composeUp": "docker-compose up",
   "docker.commands.composeDown": "docker-compose down",
+  "containers.commands.composeUp": "docker-compose up",
+  "containers.commands.composeDown": "docker-compose down",
 }
